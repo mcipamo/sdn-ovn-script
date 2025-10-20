@@ -1,7 +1,7 @@
 # OpenShift SDN → OVN Migration - Runtime Validation Script
 
 This repository contains a Bash-based validation tool designed to **monitor and verify the OpenShift SDN to OVN-Kubernetes migration** process in real-time.  
-It helps SREs, Cluster Engineers, and Platform Administrators validate each step of the migration, identify blocked states, and ensure operator reconciliation during and after the transition.
+It helps Support Engineers, Customers, and Platform Administrators validate each step of the migration, identify blocked states, and ensure operator reconciliation during and after the transition.
 
 ---
 
