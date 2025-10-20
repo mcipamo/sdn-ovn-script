@@ -1,7 +1,7 @@
 #!/bin/bash
 # ----------------------------------------------------------------------
 # OpenShift SDN → OVN Migration - Runtime Validation Script (with --watch)
-# Author: Milton Cipamocha - Red Hat SME
+# Author: Milton Cipamocha - SME - Red Hat, Managed Cloud Services
 # ----------------------------------------------------------------------
 
 set -euo pipefail
